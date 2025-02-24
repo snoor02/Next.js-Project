@@ -157,7 +157,7 @@ export default function Home() {
             </p>
             <Image
               src="/main.jpg"
-              alt="Royal x Casino"
+              alt="Royal x Casino Mobile App Interface Showing Live Games and Bonuses"
               width={1200} // adjust based on your image ratio
               height={675} // adjust based on your image ratio
               className="w-full h-auto rounded-xl shadow-2xl mb-6"
@@ -300,7 +300,7 @@ export default function Home() {
             </ul>
             <Image
               src="/9.jpg"
-              alt="Royal x Casino"
+              alt="Royal x Casino Mobile App Interface Showing Live Games and Bonuses"
               width={1200} // adjust these numbers as necessary
               height={675} // adjust these numbers as necessary
               className="w-full h-auto rounded-xl shadow-2xl"
@@ -461,7 +461,7 @@ export default function Home() {
                 >
                   <Image
                     src={src}
-                    alt={`Royal x Casino ${index + 1}`}
+                    alt={`Royal x Casino Screenshot ${index + 1}`}
                     width={600} // adjust as needed
                     height={256} // h-64 equals roughly 256px
                     style={{ width: "auto", height: "auto" }} // Maintain aspect ratio
@@ -650,10 +650,10 @@ export default function Home() {
                     src={`/g${game}.png`}
                     alt={
                       game === 1
-                        ? "Royal x Casino"
+                        ? "Royal x Casino Game Rising Fortune"
                         : game === 2
-                        ? "Royal x Casino"
-                        : "Royal x Casino"
+                        ? "Royal x Casino Game Dice"
+                        : "Royal x Casino Game Roulette"
                     }
                     width={600}
                     height={337}
