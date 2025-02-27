@@ -18,7 +18,7 @@ export const metadata = {
   openGraph: {
     images: [
       {
-        url: 'https://royalxcasino666.com/og-image.jpg',
+        url: 'https://royalxcasinox.com/og-image.jpg',
         width: 1200,
         height: 630,
       }
