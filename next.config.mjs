@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-      domains: ['royalxcasino666.com'], // Add other domains if needed
+      domains: ['royalxcasinox.com'], // Add other domains if needed
     },
     async headers() {
       return [
