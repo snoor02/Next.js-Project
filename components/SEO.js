@@ -8,8 +8,6 @@ export default function SEO() {
 
   return (
     <Head>
-
-<meta name="google-site-verification" content="rwnQFdQyLAquOA6n_OQ5ZzsrsFDqBwru_RSPcWvjM_w" />
       {/* Primary Meta Tags */}
       <title>{pageTitle}</title>
       <meta name="title" content={pageTitle} />
