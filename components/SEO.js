@@ -2,7 +2,7 @@
 import Head from 'next/head';
 
 export default function SEO() {
-  const pageTitle = "Royal x Casino | Pakistan's #1 Real Money Gaming App";
+  const pageTitle = "Royal X Casino - Download Real Earning Game | Updated Version";
   const pageDescription = "Join 500,000+ players on Royal x Casino - Get Rs 50,000 Welcome Bonus! Download APK for Android with 2000+ games, instant withdrawals & 24/7 support.";
   const canonicalUrl = "https://royalxcasinox.com/";
 
