@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 
 export const metadata = {
-  title: "Royal x Casino - #1 Real Money Gaming App in Pakistan (2024)",
+  title: "Royal X Casino - Download Real Earning Game | Updated Version",
   description: "Download Royal x Casino APK v2.30.2 for Android - Get Rs 50,000 Welcome Bonus + 2000+ Games. Safe & Legal Pakistani Casino App with JazzCash Withdrawals.",
   openGraph: {
     images: [
